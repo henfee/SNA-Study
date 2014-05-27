@@ -1,0 +1,6 @@
+# Resource
+
+- SNA：Social Network Analysis
+
+- [Pajek](http://pajek.imfm.si)  (Slovene word for Spider) is a program, for Windows, for analysis and visualization of large networks. It is freely available.
+
